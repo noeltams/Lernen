@@ -1,0 +1,60 @@
+
+Hostname:                                      NOEL
+Betriebssystemname:                            Microsoft Windows 11 Home
+Betriebssystemversion:                         10.0.26200 Nicht zutreffend Build 26200
+Betriebssystemhersteller:                      Microsoft Corporation
+Betriebssystemkonfiguration:                   EigenstÑndige Arbeitsstation
+Betriebssystem-Buildtyp:                       Multiprocessor Free
+Registrierter Benutzer:                        noelpascal.tams@gmail.com
+Registrierte Organisation:                     
+Produkt-ID:                                    00326-10000-00000-AA774
+UrsprÅngliches Installationsdatum:             12.07.2026, 23:27:15
+Systemstartzeit:                               10.08.2026, 10:00:49
+Systemhersteller:                              System manufacturer
+Systemmodell:                                  System Product Name
+Systemtyp:                                     x64-based PC
+Prozessor(en):                                 1 Prozessor(en) installiert.
+                                               [01]: AMD64 Family 25 Model 33 Stepping 2 AuthenticAMD ~3600 MHz
+BIOS-Version:                                  American Megatrends Inc. 4202, 16.06.2023
+Windows-Verzeichnis:                           C:\WINDOWS
+System-Verzeichnis:                            C:\WINDOWS\system32
+StartgerÑt:                                    \Device\HarddiskVolume1
+Systemgebietsschema:                           de;Deutsch (Deutschland)
+Eingabegebietsschema:                          de;Deutsch (Deutschland)
+Zeitzone:                                      (UTC+01:00) Belgrad, Bratislava (Pressburg), Budapest, Ljubljana, Prag (Praha)
+Gesamter physischer Speicher:                  32.680 MB
+VerfÅgbarer physischer Speicher:               9.303 MB
+Virtueller Arbeitsspeicher: Maximale Grî·e:    54.184 MB
+Virtueller Arbeitsspeicher: VerfÅgbar:         2.626 MB
+Virtueller Arbeitsspeicher: Zurzeit verwendet: 51.558 MB
+Auslagerungsdateipfad(e):                      C:\pagefile.sys
+DomÑne:                                        WORKGROUP
+Anmeldeserver:                                 \\NOEL
+Hotfix(es):                                    5 Hotfix(e) installiert.
+                                               [01]: KB5120708
+                                               [02]: KB5054156
+                                               [03]: KB5121003
+                                               [04]: KB5101711
+                                               [05]: KB5123304
+Netzwerkkarte(n):                              2 Netzwerkadapter installiert.
+                                               [01]: Realtek PCIe GbE Family Controller
+                                                     Verbindungsname: Ethernet
+                                                     DHCP aktiviert:  Ja
+                                                     DHCP-Server:     192.168.1.1
+                                                     IP-Adresse(n)
+                                                     [01]: 192.168.1.51
+                                                     [02]: fe80::e646:1099:e750:f9ad
+                                                     [03]: 2001:4c4e:18c9:5100:a932:da4e:78a1:6c7a
+                                                     [04]: 2001:4c4e:18c9:5100:1858:aac3:e933:f849
+                                               [02]: Xbox Wireless Adapter for Windows
+                                                     Verbindungsname: LAN-Verbindung
+                                                     DHCP aktiviert:  Nein
+                                                     IP-Adresse(n)
+Virtualisierungsbasierte Sicherheit:           Status: Nicht aktiviert
+                                               App Control for Business policy: Erzwungen
+                                               App Control for Business user mode policy: Aus
+                                               Sicherheitsfeatures aktiviert:
+Anforderungen fÅr Hyper-V:                     Erweiterungen fÅr den VM-öberwachungsmodus: Ja
+                                               Virtualisierung in Firmware aktiviert: Nein
+                                               AdressÅbersetzung der zweiten Ebene: Ja
+                                               DatenausfÅhrungsverhinderung verfÅgbar: Ja
